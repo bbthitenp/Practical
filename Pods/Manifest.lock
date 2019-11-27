@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.9.1)
+  - IQKeyboardManager (6.5.4)
+  - SDWebImage (5.3.2):
+    - SDWebImage/Core (= 5.3.2)
+  - SDWebImage/Core (5.3.2)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Alamofire (= 4.9.1)
+  - IQKeyboardManager
+  - SDWebImage
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManager
+    - SDWebImage
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  IQKeyboardManager: 72b359cd7e777e3a984cedbe05f8da45320cbb63
+  SDWebImage: 6ac2eb96571bff96ecde31a987172c5934a0eb7d
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: d16900d1ac38f8f7a1d5df664dec4945f64fd8d4
+
+COCOAPODS: 1.8.4
